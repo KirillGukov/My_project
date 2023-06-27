@@ -1,2 +1,0 @@
-aiohttp==3.8.4
-aiohttp-jinja2==1.5.1
